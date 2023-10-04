@@ -1,0 +1,104 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+  background-color: rgb(232, 232, 232);
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 50px;
+  color: rgb(0, 0, 158);
+  font-weight: 900;
+}
+
+img {
+  margin-left: 600px;
+  height: 150px;
+  width: 300px;
+}
+
+.content {
+  background-color: blueviolet;
+  padding: 10px 20px;
+  margin-top: 50px;
+  margin-left: 350px;
+  border: 1px solid blueviolet;
+  border-radius: 5px;
+  width: 800px;
+  color: white;
+}
+
+.cont {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+}
+
+.cont p {
+  line-height: 3px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: normal;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#t1,
+#t3,
+#t4 {
+  border-left: 4px solid rgb(204, 204, 116);
+  padding-left: 5px;
+  margin-top: 10px;
+  color: rgb(255, 255, 133);
+}
+
+#t2,
+#t5 {
+  margin-top: 10px;
+  padding-left: 10px;
+}
+
+mark {
+  background-color: rgb(204, 204, 116);
+}
+
+#l1,
+#l3,
+#l4 {
+  border-left: 4px solid rgb(204, 204, 116);
+  padding-left: 5px;
+  margin-top: 10px;
+}
+
+button {
+  margin-top: 20px;
+  margin-left: 680px;
+  background-color: rgb(255, 179, 0);
+  border: 1px solid rgb(255, 179, 0);
+  border-radius: 5px;
+  padding: 10px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+footer {
+  margin-top: 10px;
+  text-align: center;
+  color: gray !important;
+}
